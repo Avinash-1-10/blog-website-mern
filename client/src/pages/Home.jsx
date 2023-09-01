@@ -6,7 +6,7 @@ const Home = () => {
     <div className="flex justify-center items-center gap-10 flex-wrap px-5 md:px-10 py-5 md:py-10">
       {blogs.map((blog) => (
         <div
-          className=" w-[300px] md:w-[400px] h-[400px] border rounded-lg overflow-hidden relative"
+          className=" w-[300px] md:w-[400px] h-[400px] border rounded-lg overflow-hidden relative shadow-md"
           key={blog.id}
         >
           <div className="absolute z-50 bottom-0 w-[100%] bg-gradient-to-t from-gray-950 to-transparent flex justify-center items-center h-[30%]">
