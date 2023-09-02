@@ -1,7 +1,18 @@
-import React from "react";
-import blogs from "../data/blogs";
+import React, { useEffect, useState } from "react";
+import axios from "axios"
 
 const Home = () => {
+  const [blogs, setBlogs]=useState([])
+    let apiCall = async()=>{
+       const result = await axios.get("http://localhost:4000/api/blogs");
+       const data = result.data;
+       setBlogs(data)
+    }
+
+    useEffect(()=>{
+      apiCall()
+    },[])
+
   return (
     <div className="flex justify-center items-center gap-10 flex-wrap px-5 md:px-10 py-5 md:py-10">
       {blogs.map((blog) => (
