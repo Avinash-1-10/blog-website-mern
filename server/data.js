@@ -2,7 +2,7 @@ const blogs = [
     {
       id: 1,
       author: "Avinash Yede",
-      title:"This is the title of blog",
+      title:"1 This is the title of blog",
       subtitle:"Lorem, ipsum dolor sit amet consectetur adipisicing elit.Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
       image:
         "https://images.unsplash.com/photo-1691938670117-5c65ae4c19fe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTB8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=800&q=60",
@@ -12,7 +12,7 @@ const blogs = [
     {
       id: 2,
       author: "Avinash Yede",
-      title:"This is the title of blog",
+      title:"2 This is the title of blog",
       subtitle:"Lorem, ipsum dolor sit amet consectetur adipisicing elit.Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
       image:
         "https://images.unsplash.com/photo-1691938670117-5c65ae4c19fe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTB8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=800&q=60",
@@ -22,7 +22,7 @@ const blogs = [
     {
       id: 3,
       author: "Avinash Yede",
-      title:"This is the title of blog",
+      title:"3 This is the title of blog",
       subtitle:"Lorem, ipsum dolor sit amet consectetur adipisicing elit.Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
       image:
         "https://images.unsplash.com/photo-1691938670117-5c65ae4c19fe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTB8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=800&q=60",
@@ -32,7 +32,7 @@ const blogs = [
     {
       id: 4,
       author: "Avinash Yede",
-      title:"This is the title of blog",
+      title:"4 This is the title of blog",
       subtitle:"Lorem, ipsum dolor sit amet consectetur adipisicing elit.Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
       image:
         "https://images.unsplash.com/photo-1691938670117-5c65ae4c19fe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTB8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=800&q=60",
@@ -42,7 +42,7 @@ const blogs = [
     {
       id: 5,
       author: "Avinash Yede",
-      title:"This is the title of blog",
+      title:"5 This is the title of blog",
       subtitle:"Lorem, ipsum dolor sit amet consectetur adipisicing elit.Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
       image:
         "https://images.unsplash.com/photo-1691938670117-5c65ae4c19fe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTB8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=800&q=60",
@@ -52,7 +52,7 @@ const blogs = [
     {
       id: 6,
       author: "Avinash Yede",
-      title:"This is the title of blog",
+      title:"6 This is the title of blog",
       subtitle:"Lorem, ipsum dolor sit amet consectetur adipisicing elit.Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
       image:
         "https://images.unsplash.com/photo-1691938670117-5c65ae4c19fe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTB8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=800&q=60",
@@ -62,7 +62,7 @@ const blogs = [
     {
       id: 7,
       author: "Avinash Yede",
-      title:"This is the title of blog",
+      title:"7 This is the title of blog",
       subtitle:"Lorem, ipsum dolor sit amet consectetur adipisicing elit.Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
       image:
         "https://images.unsplash.com/photo-1691938670117-5c65ae4c19fe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTB8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=800&q=60",
@@ -72,7 +72,7 @@ const blogs = [
     {
       id: 8,
       author: "Avinash Yede",
-      title:"This is the title of blog",
+      title:"8 This is the title of blog",
       subtitle:"Lorem, ipsum dolor sit amet consectetur adipisicing elit.Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
       image:
         "https://images.unsplash.com/photo-1691938670117-5c65ae4c19fe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTB8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=800&q=60",
