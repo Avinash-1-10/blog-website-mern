@@ -26,6 +26,10 @@ const Read = () => {
         navigate("/")
     }, 1000);
   };
+
+  const handleEdit = (id)=>{
+    navigate("/create", {state:"hi"})
+  }
   
 
   return (
